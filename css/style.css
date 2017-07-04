@@ -151,7 +151,8 @@ banner
 	display: inline-block;
 }
 .banner-text{
-	color: #fff;
+/*	color: #fff;*/
+color: black;
 }
 .banner-text h1{
 	font-family: 'Candal', sans-serif;
