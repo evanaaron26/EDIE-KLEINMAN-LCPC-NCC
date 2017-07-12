@@ -207,8 +207,8 @@ cta-1
 	float: left;
 }
 .medi-info{
-	border-right: 1px solid #fff;
-}
+/*	border-right: 1px solid #fff;
+*/}
 .medi-info, .time-info{
 	padding: 20px;
 	color: #fff;
@@ -455,6 +455,7 @@ footer
 }
 .bglight-blue {
     background-color: #3498DB;
+    
 }
 .bgred {
     background-color: #E74C3C;
@@ -509,7 +510,7 @@ footer
     }
     .service-info{
         margin-top: 20px;
-        margin-bottom: 0px;
+        margin-bottom: 00px;
     }
     .caption h3 {
     font-size: 14px;
